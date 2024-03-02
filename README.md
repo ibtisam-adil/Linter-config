@@ -15,11 +15,11 @@ Please do the following *steps in this order*:
    - If you think that change is necessary - open a [Pull Request in this repository](../README.md#contributing) and let your code reviewer know about it.
 3. When you open your first pull request you should see the result of the GitHub actions checks:
 
-![gh actions checks](../assets/images/gh-actions-html-css-checks.png)
+![gh actions checks](../assets/ghaction1.jpeg)
 
 Click on the Details link of each action to see the full output and the errors that need to be fixed:
 
-![gh actions failing checks](../assets/images/gh-actions-html-css-failing-checks.png)
+![gh actions failing checks](../assets/ghaction2.jpeg)
 
 ## Set-up linters in your local env
 
